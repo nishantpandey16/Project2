@@ -1,5 +1,5 @@
 # New Project
 
-this project was created ny local system.git status
+this project was created from local system.
 
 created by Nishant Pandey
